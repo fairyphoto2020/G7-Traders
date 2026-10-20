@@ -1,0 +1,9 @@
+{
+    "name": "G7 Traders",
+    "short_name": "G7T",
+    "description": "Trade Smart, Grow Strong.",
+    "start_url": "https://gseventraders.abcwebsoftech.com/admin/login/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
